@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 --->
 
-:fire: GitHub Stats
+:fire: GitHub Stats\n
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryannov25&theme=dark&hide_border=true)
 <!---
 zeedan13/zeedan13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
